@@ -11,4 +11,4 @@ Authing focuses on identity and building social infrastructure for identity shar
 - [Visit our website](https://authing.cn)
 - [Go to developer center](https://www.authing.cn/developer)
 
-Visit [docs.authing.cn](docs.authing.cn) to learn more!
+Visit [docs.authing.cn](https://docs.authing.cn) to learn more!
