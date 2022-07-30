@@ -1,8 +1,8 @@
-<div align=left>
+<div align=center>
   <img src="https://authing-cdn-cn-prod.oss-cn-beijing.aliyuncs.com/authing-assets/authing-github-home-readme/authing-logo.png" width="350px" />
 </div>
 
-Authing is a developer-centric, API-First, full-scene(B2C/B2B/B2E) identity cloud.
+Authing is a <strong>developer-centric</strong>, <strong>API-First</strong>, <strong>full-scene(B2C/B2B/B2E) identity cloud</strong>.
 
 Authing quickly implements authentication and user management for any Web, App, and enterprise software to provide the most complete login solution for your customers(B2C/B2B) and employees(B2E).
 
