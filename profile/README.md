@@ -6,8 +6,6 @@ Authing is a <strong>developer-centric</strong>, <strong>API-First</strong>, <st
 
 Authing quickly implements authentication and user management for any Web, App, and enterprise software to provide the most complete login solution for your customers(B2C/B2B) and employees(B2E).
 
-Authing supports many protocols such as OAuth2.0, OIDC, SAML, LDAP, etc. Developers can easily implement single sign-on with a minimum of five lines of code and realize login customization.
-
 Right now, welcome to our open source community and build amazing software together.
 
 - <a href="https://www.authing.cn/" target="_blank">Visit Authing website</a>
