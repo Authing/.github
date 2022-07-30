@@ -16,9 +16,6 @@ Authing's historical investors include Tiger global, GGV, CDH, Miracleplus(Forme
 
 For  B2C/B2B, or CIAM(Customer Identity Access and Management), Authing provides an embeddable login form(we call it Guard) that can be configured according to your login needs(MFA, Email-password, Phone-password, etc.) and easily add various social login methods(Google, Wechat, Facebook, etc.), allowing users to log in seamlessly and have a consistent login experience on different platforms, which will empower customers to accelerate the value imagined and realized from their digital experiences.
 
-<video src="https://authing-cdn-cn-prod.oss-cn-beijing.aliyuncs.com/authing-assets/authing-github-home-readme/authing-console.mp4" controls width="100%"></video>
-
-[![Watch the video](https://authing-cdn-cn-prod.oss-cn-beijing.aliyuncs.com/authing-assets/authing-github-home-readme/1.png)](https://authing-cdn-cn-prod.oss-cn-beijing.aliyuncs.com/authing-assets/authing-github-home-readme/authing-console.mp4)
 
 Authing supports many protocols such as OAuth2.0, OIDC, SAML, LDAP, etc. Developers can easily implement single sign-on with a minimum of five lines of code and realize login customization.
 
@@ -28,7 +25,6 @@ Authing supports many protocols such as OAuth2.0, OIDC, SAML, LDAP, etc. Develop
 
 For  B2E, or EIAM(Enterprise Identity Access and Management), Authing relies on Single Sign-On technology to enable members and customers to access any software service in one place, and uniformly control identity permissionas. Users only need to log in once to use all the apps they have been granted access to.
 
-<video src="https://authing-cdn-cn-prod.oss-cn-beijing.aliyuncs.com/authing-assets/authing-github-home-readme/sso.mp4" controls width="100%"></video>
 
 Your employees need access to a variety of services and third-party applications. Authing enables employees and partners to access any local and cloud software services in one place, centrally controls their access rights, creates an efficient way of working, simplifies personnel and IT management, and accelerates the growth of enterprises.
 
