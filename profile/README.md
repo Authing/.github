@@ -18,6 +18,8 @@ For  B2C/B2B, or CIAM(Customer Identity Access and Management), Authing provides
 
 <video src="https://authing-cdn-cn-prod.oss-cn-beijing.aliyuncs.com/authing-assets/authing-github-home-readme/authing-console.mp4" controls width="100%"></video>
 
+[![Watch the video](https://authing-cdn-cn-prod.oss-cn-beijing.aliyuncs.com/authing-assets/authing-github-home-readme/1.png)](https://authing-cdn-cn-prod.oss-cn-beijing.aliyuncs.com/authing-assets/authing-github-home-readme/authing-console.mp4)
+
 Authing supports many protocols such as OAuth2.0, OIDC, SAML, LDAP, etc. Developers can easily implement single sign-on with a minimum of five lines of code and realize login customization.
 
 <div align=center>
