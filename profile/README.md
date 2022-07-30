@@ -4,7 +4,9 @@
 
 Every enterprise is transforming into a software enterprise. They either purchase software or build their own software. Every software is inseparable from identity.
 
-So we create [Authing](https://authing.cn).
+<div>
+  So we create <a href="https://authing.cn" target="_blank">Authing</a>.
+</div>
 
 ### Authing is a developer-centric, API-First, full-scene(B2C/B2B/B2E) identity cloud.
 
@@ -44,11 +46,11 @@ Authing focuses on identity and building social infrastructure for identity shar
   <img src="https://authing-cdn-cn-prod.oss-cn-beijing.aliyuncs.com/authing-assets/authing-github-home-readme/4.png" width="650px" />
 </div>
 
-- [Visit Authing website](https://www.authing.cn/)
-- [Learn Authing API/SDK](https://docs.authing.cn/v2/reference/)
-- [Learn universal login (Guard)](https://www.authing.cn/learn/guard)
-- [Learn Single Sign On](https://www.authing.cn/learn/sso)
-- [Learn Authing Partner Network](https://www.authing.cn/apn)
-- [Learn Authing's customers stories](https://www.authing.cn/customer)
+- <a href="https://www.authing.cn/" target="_blank">Visit Authing website</a>
+- <a href="https://docs.authing.cn/v2/reference/" target="_blank">Learn Authing API/SDK</a> 
+- <a href="https://www.authing.cn/learn/guard" target="_blank">Learn universal login (Guard)</a> 
+- <a href="https://www.authing.cn/learn/sso" target="_blank">Learn Single Sign On</a>
+- <a href="https://www.authing.cn/apn" target="_blank">Learn Authing Partner Network</a>
+- <a href="https://www.authing.cn/customer" target="_blank">Learn Authing's customers stories</a>
 
 Click [docs.authing.cn](docs.authing.cn) to learn more!
