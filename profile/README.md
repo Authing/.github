@@ -9,6 +9,7 @@ Authing quickly implements authentication and user management for any Web, App, 
 Right now, welcome to our open source community and build amazing software together.
 
 - <a href="https://www.authing.cn/" target="_blank">Visit Authing website</a>
+- <a href="https://github.com/Authing/.github/blob/main/profile/authing.md" target="_blank">Into Authing</a>
 - <a href="https://docs.authing.cn/v2/reference/" target="_blank">Learn Authing API/SDK</a> 
 - <a href="https://www.authing.cn/learn/guard" target="_blank">Learn universal login (Guard)</a> 
 - <a href="https://www.authing.cn/learn/sso" target="_blank">Learn Single Sign On</a>
