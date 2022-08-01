@@ -16,7 +16,7 @@ Every enterprise is transforming into a software enterprise. They either purchas
 
 For  B2C/B2B, or CIAM(Customer Identity Access and Management), <a href="https://authing.cn" target="_blank">Authing</a> provides an embeddable login form(we call it <a href="https://www.authing.cn/learn/guard" target="_blank">Guard</a>) that can be configured according to your login needs(MFA, Email-password, Phone-password, etc.) and easily add various social login methods(Google, Wechat, Facebook, etc.), allowing users to log in seamlessly and have a consistent login experience on different platforms, which will empower customers to accelerate the value imagined and realized from their digital experiences.
 
-[![Watch the video](https://authing-cdn-cn-prod.oss-cn-beijing.aliyuncs.com/authing-assets/authing-github-home-readme/video-cover-console.png)](https://authing-cdn-cn-prod.oss-cn-beijing.aliyuncs.com/authing-assets/authing-github-home-readme/authing-console.mp4)
+[<div align=center><img src="https://authing-cdn-cn-prod.oss-cn-beijing.aliyuncs.com/authing-assets/authing-github-home-readme/video-cover-console.png" width="650px"></div>](https://authing-cdn-cn-prod.oss-cn-beijing.aliyuncs.com/authing-assets/authing-github-home-readme/authing-console.mp4)
 
 Authing supports many protocols such as OAuth2.0, OIDC, SAML, LDAP, etc. Developers can easily implement single sign-on with a minimum of five lines of code and realize login customization.
 
@@ -26,7 +26,7 @@ Authing supports many protocols such as OAuth2.0, OIDC, SAML, LDAP, etc. Develop
 
 For  B2E, or EIAM(Enterprise Identity Access and Management), <a href="https://authing.cn" target="_blank">Authing</a> relies on <a href="https://www.authing.cn/learn/sso" target="_blank">Single Sign-On technology</a> to enable members and customers to access any software service in one place, and uniformly control identity permissionas. Users only need to log in once to use all the apps they have been granted access to.
 
-[![Watch the video](https://authing-cdn-cn-prod.oss-cn-beijing.aliyuncs.com/authing-assets/authing-github-home-readme/video-cover-sso.png)](https://authing-cdn-cn-prod.oss-cn-beijing.aliyuncs.com/authing-assets/authing-github-home-readme/sso.mp4)
+[<div align=center><img src="https://authing-cdn-cn-prod.oss-cn-beijing.aliyuncs.com/authing-assets/authing-github-home-readme/video-cover-sso.png" width="650px"></div>](https://authing-cdn-cn-prod.oss-cn-beijing.aliyuncs.com/authing-assets/authing-github-home-readme/sso.mp4)
 
 Your employees need access to a variety of services and third-party applications. <a href="https://authing.cn" target="_blank">Authing</a> enables employees and partners to access any local and cloud software services in one place, centrally controls their access rights, creates an efficient way of working, simplifies personnel and IT management, and accelerates the growth of enterprises.
 
@@ -40,7 +40,7 @@ Your employees need access to a variety of services and third-party applications
   <img src="https://authing-cdn-cn-prod.oss-cn-beijing.aliyuncs.com/authing-assets/authing-github-home-readme/3.png" width="650">
 </div>
 
-Authing focuses on identity and building social infrastructure for identity sharing across all SaaS software and users to help companies build a secure modern IT infrastructure that not only protects their business, but also redefines the user experience.
+<a href="https://authing.cn" target="_blank">Authing</a> focuses on identity and building social infrastructure for identity sharing across all SaaS software and users to help companies build a secure modern IT infrastructure that not only protects their business, but also redefines the user experience.
 
 <div align=center>
   <img src="https://authing-cdn-cn-prod.oss-cn-beijing.aliyuncs.com/authing-assets/authing-github-home-readme/4.png" width="650">
