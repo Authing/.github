@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://authing-cdn-cn-prod.oss-cn-beijing.aliyuncs.com/authing-assets/authing-github-home-readme/authing-logo.png" width="350px" />
+  <img src="https://authing-cdn-cn-prod.oss-cn-beijing.aliyuncs.com/authing-assets/authing-github-home-readme/authing-logo-20220818.png" width="350px" />
 </div>
 
 Authing is a <strong>developer-centric</strong>, <strong>API-First</strong>, <strong>full-scene(B2C/B2B/B2E) identity cloud</strong>.
