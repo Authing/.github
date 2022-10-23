@@ -10,10 +10,13 @@ Right now, welcome to our open source community and build amazing software toget
 
 - <a href="https://www.authing.cn/" target="_blank">Visit Authing website</a>
 - <a href="https://github.com/Authing/.github/blob/main/profile/authing.md" target="_blank">Intro Authing</a>
-- <a href="https://docs.authing.cn/v2/reference/" target="_blank">Learn Authing API/SDK</a> 
+- <a href="https://docs.authing.cn/" target="_blank">Learn Authing Docs</a> 
+- Learn Authing APIs:
+  - <a href="https://api.authing.cn/openapi/v3/authentication" target="_blank">Authing Authentication API (V3)</a> 
+  - <a href="https://api.authing.cn/openapi/v3/management" target="_blank">Authing Management API (V3)</a> 
 - <a href="https://www.authing.cn/learn/guard" target="_blank">Learn universal login (Guard)</a> 
 - <a href="https://www.authing.cn/learn/sso" target="_blank">Learn Single Sign On</a>
 - <a href="https://www.authing.cn/apn" target="_blank">Learn Authing Partner Network</a>
 - <a href="https://www.authing.cn/customer" target="_blank">Learn Authing's customers stories</a>
 
-Click [docs.authing.cn](https://docs.authing.cn/v2/) to learn more!
+Click [docs.authing.cn](https://docs.authing.cn/) to learn more!
